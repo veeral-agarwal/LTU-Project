@@ -16,5 +16,9 @@ Language, Universals and typology - course project
 
 TAGS  | Description
 ------------- | -------------
-English  | Content Cell
-Content Cell  | Content Cell
+English  | English sentences which contains the adverbial subordinate clauses
+Telugu  | Telugu sentences which contains the adverbial subordinate clauses
+Hindi | Hindi sentences which contains the adverbial subordinate clauses
+TAG ID | Each sentence tag with a specific analysis
+RED Marked | Identify the adverbial function in the sentence
+RED + BLUE | Mark the adverbial subordinate clause in a sentence
