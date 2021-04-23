@@ -13,7 +13,7 @@ import random
 # input_english = re.sub('-+', ' ', input_english)
 # input_english_list = []
 # input_english_list = input_english.split("\n")
-file_h = open("./../Hin_50_sent.txt","rt")
+file_h = open("./data/Hin_50_sent.txt","rt")
 input_hindi = file_h.read()
 input_hindi_list = []
 input_hindi_list = input_hindi.split("\n")
