@@ -22,3 +22,6 @@ Hindi | Hindi sentences which contains the adverbial subordinate clauses
 TAG ID | Each sentence tag with a specific analysis
 RED Marked | Identify the adverbial function in the sentence
 RED + BLUE | Mark the adverbial subordinate clause in a sentence
+
+## Adveribal subordinates clauses marking
+In all the three langauges adveribal subordinates identifed with red+blue combination. The words/phrases only marked with red color denotes the adveribal function in that particular clause.
