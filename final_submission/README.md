@@ -24,4 +24,4 @@ RED Marked | Identify the adverbial function in the sentence
 RED + BLUE | Mark the adverbial subordinate clause in a sentence
 
 ## Adveribal subordinates clauses marking
-In all the three langauges adveribal subordinates identifed with red+blue combination. The words/phrases only marked with red color denotes the adveribal function in that particular clause.
+In all the three langauges adveribal subordinates identifed with red+blue combination (https://github.com/veeral-agarwal/LTU-Project/blob/main/final_submission/Adverbial%20Subordinate%20Clauses%20Annotation%20and%20Analysis%20-%20Annotation_Analysis.pdf). The words/phrases only marked with red color denotes the adveribal function in that particular clause.
